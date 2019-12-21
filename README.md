@@ -1,2 +1,2 @@
 # Big-Dump
-odin projectg work
+odin project work
